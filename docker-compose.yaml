@@ -6,4 +6,4 @@ services:
     ports:
      - '8888:8888'
     volumes:
-     - ./src:/home/jovyan
+     - ./src:/home/jovyan/src

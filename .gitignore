@@ -1,1 +1,8 @@
 src/.local
+src/.ipython
+src/.jupyter
+src/.ipynb_checkpoints
+src/grib2.dat
+src/data
+
+._*
